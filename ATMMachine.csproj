@@ -5,4 +5,10 @@
     <TargetFramework>net5.0</TargetFramework>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="ATMMachineTests\**" />
+    <EmbeddedResource Remove="ATMMachineTests\**" />
+    <None Remove="ATMMachineTests\**" />
+  </ItemGroup>
+
 </Project>
