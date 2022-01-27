@@ -27,7 +27,7 @@ namespace ATMMachine
                 Console.WriteLine("Choose an option below:");
                 Console.WriteLine("1. New Account");
                 Console.WriteLine("2. Check Balances");
-                Console.WriteLine("3. Edit Balance");
+                Console.WriteLine("3. Create Transaction");
                 Console.WriteLine("4. Quit");
 
                 // the user is selecting a menu option from above
