@@ -17,7 +17,7 @@ namespace ATMMachine
 
         public void Menu()
         {
-            Console.WriteLine("ATM Machine Coding Example\n\n");
+            Console.WriteLine("atm machine coding example\n\n");
 
             // condition for your menu to continue
             bool isRunning = true;
