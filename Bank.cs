@@ -26,8 +26,8 @@ namespace ATMMachine
             {
                 // a list of your instructions for your menu
                 Console.WriteLine("Choose an option below:");
-                Console.WriteLine("1. NEW ACCOUNT");
-                Console.WriteLine("2. Check Balances");
+                Console.WriteLine("1. New ASDASD");
+                Console.WriteLine("2. Check BALANCES");
                 Console.WriteLine("3. Create Transaction");
                 Console.WriteLine("4. Quit");
 
