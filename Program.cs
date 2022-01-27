@@ -11,7 +11,6 @@ namespace ATMMachine
 
             myBank.Menu();
 
-            
 
         }
     }
