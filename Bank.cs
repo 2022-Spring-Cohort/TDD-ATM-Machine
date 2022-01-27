@@ -55,7 +55,7 @@ namespace ATMMachine
                 }
             }
 
-            Console.WriteLine("Good bye! Press any key to close the application.");
+            Console.WriteLine("Good bye! Press any key to close the console window.");
             Console.ReadKey();
         }
 
