@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ATMMachine
 {
-    class Savings : Account
+    public class Savings : Account
     {
         public float Rate { get; set; }
         public int MonthlyWithdrawls { get; set; }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ATMMachine
 {
-    class Checking : Account
+    public class Checking : Account
     {
         public int CheckNo { get; set; }
         public Checking()

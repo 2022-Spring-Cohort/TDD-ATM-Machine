@@ -23,7 +23,6 @@ namespace ATMMachine
         public void Withdraw(double amount)
         {
             Balance -= amount;
-            // Balance = Balance - 10;
         }
 
         public void AddTransaction(string to, string from, double amount, double fee, string origin)
@@ -48,16 +47,7 @@ namespace ATMMachine
             Console.ReadKey();
         }
 
-        //public void ChangeAccount()
-        //{
-        //    Type = AccountType.Savings;
-        //}
 
     }
 
-    //public enum AccountType
-    //{
-    //    Checking,
-    //    Savings
-    //}
 }
